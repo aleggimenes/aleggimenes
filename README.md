@@ -3,8 +3,9 @@
 ## Estou sempre buscando me aperfeiçoar as minhas skills, portanto, seja muito bem-vindo(a) ao meu Github😺😺
 
 
-- 🔭 Eu estou atualmente trabalhando na Mind Consulting como Desenvolvedor Junior Web/Mobile FullStack
-- 🌱 Estou sempre tentando melhorar nas linguagens/frameworks que uso no dia a dia como: JavaScript/React/React Native/Node.js/Express
+- 🔭 Empresa: Eu estou atualmente trabalhando na Mind Consulting como Desenvolvedor Junior Web/Mobile FullStack
+- 🌱 O que estudo: Estou sempre tentando melhorar nas linguagens/frameworks que uso no dia a dia como: JavaScript/React/React Native/Node.js/Express
+- 🎉 Fatos sobre mim: Curto assitir filme/séries/Animes e muito ☕ 
 
 <div align="center">
   <a href="https://github.com/aleggimenes">
@@ -19,8 +20,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
+
   
   ##
  
