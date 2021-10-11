@@ -5,7 +5,7 @@
 
 - 🔭 Empresa: Eu estou atualmente trabalhando na Mind Consulting como Desenvolvedor Junior Web/Mobile FullStack
 - 🌱 O que estudo: Estou sempre tentando melhorar nas linguagens/frameworks que uso no dia a dia como: JavaScript/React/React Native/Node.js/Express
-- 🎉 Fatos sobre mim: Curto assitir filme/séries/Animes e muito ☕ 
+- 🎉 Fatos sobre mim: Curto assitir filme/séries/Animes e beber muito ☕ 
 
 <div align="center">
   <a href="https://github.com/aleggimenes">
