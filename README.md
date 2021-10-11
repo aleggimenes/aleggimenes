@@ -1,6 +1,5 @@
 ### Olá👋. Meu nome é Alessandro Gabriel, tenho 22 anos e moro em Salto de Pirapora.
-### Iniciei esta aventura na programação em 2019, no ano que comecei a faculdade de Análise e Desenvolvimente de Sistemas [FATEC].
-## Estou sempre buscando aperfeiçoar as minhas skills, portanto, seja muito bem-vindo(a) ao meu Github😺😺
+### Iniciei esta aventura na programação em 2019, no ano que comecei a faculdade de Análise e Desenvolvimente de Sistemas [FATEC]. E desde então estou sempre buscando aperfeiçoar as minhas skills, portanto, seja muito bem-vindo(a) ao meu Github😺😺
 
 
 - 🔭 Empresa: Eu estou atualmente trabalhando na Mind Consulting como Desenvolvedor Junior Web/Mobile FullStack
