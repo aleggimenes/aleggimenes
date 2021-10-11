@@ -1,10 +1,10 @@
 ### Olá👋. Meu nome é Alessandro Gabriel, tenho 22 anos e moro em Salto de Pirapora.
-### Iniciei esta aventura na programação em 2019, no ano que comecei a faculdade de Análise e Desenvolvimente de Sistemas [FATEC]. E desde então estou sempre buscando aperfeiçoar as minhas skills, portanto, seja muito bem-vindo(a) ao meu Github😺😺
+### Iniciei esta aventura na programação em 2019, no ano que comecei a faculdade de Análise e Desenvolvimente de Sistemas [FATEC]. E desde então estou sempre buscando aperfeiçoar as minhas skills, portanto, seja muito bem-vindo(a) ao meu Github😺😺.
 
 
 - 🔭 Empresa: Eu estou atualmente trabalhando na Mind Consulting como Desenvolvedor Junior Web/Mobile FullStack
 - 🌱 O que estudo: Estou sempre tentando melhorar nas linguagens/frameworks que uso no dia a dia como: JavaScript/React/React Native/Node.js/Express
-- 🎉 O que gosto de fazer: Curto assitir filmes/séries/animes e beber muito ☕ 
+- 🎉 O que gosto de fazer: Curto assitir filmes/séries/animes e beber muito ☕.
 
 <div align="center">
   <a href="https://github.com/aleggimenes">
